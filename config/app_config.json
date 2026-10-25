@@ -1,0 +1,41 @@
+{
+  "app_name": "Cliff Guard",
+  "tagline": "Smarter Energy. Lower Bills. Safer Homes.",
+  "version": "1.0.0",
+  "random_seed": 42,
+  "currency_symbol": "₹",
+  "currency_code": "INR",
+  "supported_devices": [
+    {
+      "id": "washing_machine",
+      "display_name": "Washing Machine",
+      "nominal_power_watts": 500,
+      "typical_duration_minutes": 60,
+      "is_flexible": true,
+      "icon": "🧺"
+    },
+    {
+      "id": "water_pump",
+      "display_name": "Water Pump",
+      "nominal_power_watts": 750,
+      "typical_duration_minutes": 45,
+      "is_flexible": true,
+      "icon": "💧"
+    },
+    {
+      "id": "water_heater",
+      "display_name": "Water Heater (Geyser)",
+      "nominal_power_watts": 2000,
+      "typical_duration_minutes": 30,
+      "is_flexible": true,
+      "icon": "🚿"
+    }
+  ],
+  "disclaimer_text": "Cliff Guard is a software prototype. All household profiles, hourly records, appliance logs, and tariff models are SYNTHETIC simulations for research and demonstration purposes. Automated schedule approvals are simulated and do not trigger physical actuation.",
+  "data_paths": {
+    "household_cases": "data/household_cases.csv",
+    "household_hourly": "data/household_hourly_data.csv",
+    "device_consumption": "data/device_consumption.csv",
+    "appliance_profiles": "data/appliance_profiles.csv"
+  }
+}

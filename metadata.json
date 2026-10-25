@@ -1,0 +1,6 @@
+{
+  "name": "Cliff Guard",
+  "description": "Cliff Guard — Smarter Energy. Lower Bills. Safer Homes. AI-powered household energy intelligence with anomaly detection, tariff optimization, and smart appliance scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

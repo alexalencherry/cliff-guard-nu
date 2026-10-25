@@ -1,0 +1,4 @@
+device_type,nominal_power_watts,typical_duration_minutes,typical_energy_kwh,flexible_load,earliest_start_hour,latest_finish_hour,illustrative_flag,notes
+washing_machine,500.0,60,0.5,1,6.0,22.0,1,Illustrative 7kg front/top load washer. Normal wash cycle ~60 min.
+water_pump,750.0,45,0.5625,1,5.0,20.0,1,Illustrative 1HP domestic open-well/submersible pump filling overhead tank.
+water_heater,2000.0,30,1.0,1,5.0,22.0,1,Illustrative 15-25L domestic storage geyser. Heating element ~2kW.

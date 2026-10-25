@@ -1,0 +1,51 @@
+case_id,household_type,household_size,district,daily_energy_kwh,monthly_energy_kwh,peak_usage_hour,baseline_power_watts,scenario_type,data_source
+HH_001,Traditional Nalukettu,6,Ernakulam,18.75,562.5,21,324.6,Standard Suburban,SYNTHETIC
+HH_002,Independent House,4,Ernakulam,10.25,307.5,19,193.1,Agricultural Well Pump Active,SYNTHETIC
+HH_003,Apartment 2BHK,2,Kottayam,8.36,250.8,20,176.1,Agricultural Well Pump Active,SYNTHETIC
+HH_004,Two-Storey Villa,5,Kollam,24.09,722.7,19,281.3,Agricultural Well Pump Active,SYNTHETIC
+HH_005,Traditional Nalukettu,3,Kozhikode,6.12,183.6,20,196.6,Compact Low-Use,SYNTHETIC
+HH_006,Independent House,3,Ernakulam,12.87,386.1,20,228.2,Heavy Evening Peak,SYNTHETIC
+HH_007,Independent House,3,Kollam,17.78,533.4,21,233.0,Agricultural Well Pump Active,SYNTHETIC
+HH_008,Suburban House,3,Palakkad,15.64,469.2,19,186.4,Agricultural Well Pump Active,SYNTHETIC
+HH_009,Suburban House,3,Ernakulam,13.04,391.2,19,243.5,High Daytime Solar/AC,SYNTHETIC
+HH_010,Two-Storey Villa,2,Palakkad,8.18,245.4,21,176.1,Compact Low-Use,SYNTHETIC
+HH_011,Traditional Nalukettu,6,Ernakulam,17.71,531.3,19,425.8,Agricultural Well Pump Active,SYNTHETIC
+HH_012,Apartment 3BHK,2,Kozhikode,8.24,247.2,19,187.4,Compact Low-Use,SYNTHETIC
+HH_013,Two-Storey Villa,3,Kottayam,6.57,197.1,21,136.9,Compact Low-Use,SYNTHETIC
+HH_014,Traditional Nalukettu,6,Palakkad,20.99,629.7,20,456.9,High Daytime Solar/AC,SYNTHETIC
+HH_015,Two-Storey Villa,4,Thiruvananthapuram,23.45,703.5,20,387.8,High Daytime Solar/AC,SYNTHETIC
+HH_016,Apartment 2BHK,2,Kozhikode,9.49,284.7,20,131.1,Compact Low-Use,SYNTHETIC
+HH_017,Independent House,3,Kottayam,15.02,450.6,20,290.9,Standard Suburban,SYNTHETIC
+HH_018,Apartment 2BHK,3,Ernakulam,7.88,236.4,20,157.4,Heavy Evening Peak,SYNTHETIC
+HH_019,Apartment 2BHK,3,Kottayam,8.57,257.1,20,147.2,Standard Suburban,SYNTHETIC
+HH_020,Apartment 3BHK,3,Alappuzha,17.63,528.9,20,302.6,Heavy Evening Peak,SYNTHETIC
+HH_021,Apartment 2BHK,2,Alappuzha,8.98,269.4,21,143.9,Agricultural Well Pump Active,SYNTHETIC
+HH_022,Apartment 2BHK,3,Thrissur,8.55,256.5,14,163.2,High Daytime Solar/AC,SYNTHETIC
+HH_023,Apartment 2BHK,2,Palakkad,5.95,178.5,20,149.0,Heavy Evening Peak,SYNTHETIC
+HH_024,Two-Storey Villa,6,Kottayam,25.47,764.1,20,297.1,High Daytime Solar/AC,SYNTHETIC
+HH_025,Independent House,5,Alappuzha,13.8,414.0,19,257.0,High Daytime Solar/AC,SYNTHETIC
+HH_026,Apartment 2BHK,2,Kozhikode,8.35,250.5,19,151.9,High Daytime Solar/AC,SYNTHETIC
+HH_027,Apartment 3BHK,3,Kollam,11.8,354.0,21,227.3,Standard Suburban,SYNTHETIC
+HH_028,Apartment 2BHK,2,Thrissur,5.53,165.9,19,176.6,Agricultural Well Pump Active,SYNTHETIC
+HH_029,Two-Storey Villa,5,Ernakulam,16.71,501.3,21,327.6,Standard Suburban,SYNTHETIC
+HH_030,Apartment 3BHK,3,Thrissur,15.79,473.7,21,303.5,Agricultural Well Pump Active,SYNTHETIC
+HH_031,Apartment 3BHK,4,Thrissur,11.52,345.6,20,193.6,Heavy Evening Peak,SYNTHETIC
+HH_032,Suburban House,4,Kozhikode,16.91,507.3,21,187.6,Heavy Evening Peak,SYNTHETIC
+HH_033,Traditional Nalukettu,5,Ernakulam,23.28,698.4,19,440.1,Standard Suburban,SYNTHETIC
+HH_034,Two-Storey Villa,6,Thrissur,20.49,614.7,19,364.4,High Daytime Solar/AC,SYNTHETIC
+HH_035,Apartment 3BHK,4,Thrissur,16.46,493.8,19,299.8,Standard Suburban,SYNTHETIC
+HH_036,Independent House,3,Kottayam,11.33,339.9,19,248.0,Standard Suburban,SYNTHETIC
+HH_037,Apartment 3BHK,4,Kottayam,10.02,300.6,20,234.7,High Daytime Solar/AC,SYNTHETIC
+HH_038,Suburban House,5,Kozhikode,15.75,472.5,20,201.7,Agricultural Well Pump Active,SYNTHETIC
+HH_039,Two-Storey Villa,6,Kottayam,21.42,642.6,19,429.6,Agricultural Well Pump Active,SYNTHETIC
+HH_040,Independent House,5,Kollam,11.26,337.8,19,314.5,Agricultural Well Pump Active,SYNTHETIC
+HH_041,Two-Storey Villa,4,Ernakulam,22.75,682.5,19,327.0,Agricultural Well Pump Active,SYNTHETIC
+HH_042,Apartment 2BHK,2,Thrissur,7.98,239.4,21,153.5,Agricultural Well Pump Active,SYNTHETIC
+HH_043,Apartment 2BHK,2,Palakkad,8.18,245.4,20,145.1,Compact Low-Use,SYNTHETIC
+HH_044,Apartment 3BHK,3,Alappuzha,6.76,202.8,19,180.1,Compact Low-Use,SYNTHETIC
+HH_045,Independent House,5,Kollam,17.97,539.1,19,190.3,Agricultural Well Pump Active,SYNTHETIC
+HH_046,Apartment 2BHK,3,Thiruvananthapuram,9.02,270.6,19,190.3,High Daytime Solar/AC,SYNTHETIC
+HH_047,Suburban House,5,Alappuzha,15.63,468.9,21,265.6,Heavy Evening Peak,SYNTHETIC
+HH_048,Apartment 2BHK,3,Kottayam,9.23,276.9,19,128.3,Agricultural Well Pump Active,SYNTHETIC
+HH_049,Suburban House,5,Ernakulam,14.43,432.9,21,218.1,Standard Suburban,SYNTHETIC
+HH_050,Two-Storey Villa,6,Palakkad,22.34,670.2,20,332.8,High Daytime Solar/AC,SYNTHETIC
